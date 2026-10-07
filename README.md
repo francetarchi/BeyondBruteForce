@@ -6,7 +6,7 @@ Due to compatibility issues, some sections of the output of the cells may not be
 
 Therefore, we recommend opening the notebook directly on Colab at the following link: [Colab Notebook](https://drive.google.com/file/d/1dA2xXKgSJKxs37atHtPDQoKhE3dwt3zk/view?usp=sharing).
 
-Project Members:
+## Project Members
   - _Valentina Bertei_ ([vbertei.vb@gmail.com](vbertei.vb@gmail.com))
   - _Alex Sgammato_ ([alexsgammato@gmail.com](alexsgammato@gmail.com))
   - _Francesco Tarchi_ ([francesco.tarchi01@gmail.com](francesco.tarchi01@gmail.com))
